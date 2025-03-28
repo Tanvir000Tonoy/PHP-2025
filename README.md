@@ -8,7 +8,7 @@ tanvir & riyadh
 
 ![Riyad](./php.webp)
 
-PHP may not be my preferred language, but it has a rich legacy. Considering the requirements of my web technology project, I thought it would be an excellent opportunity to explore it during this prime time. Trying it out now will likely benefit me in the future. Additionally, Riyad will be accompanying me, so it will be a fun milestone to achieve.
+PHP may not be my preferred language, but it has a rich legacy. Considering the requirements of my web technology project, I thought it would be an excellent opportunity to explore it during this prime time. Trying it out now will likely benefit me in the future. Additionally, my friends are going to accompany me, so it will be a fun milestone to achieve.
 
  
  HOW WE WILL LEARNING :
