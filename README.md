@@ -16,6 +16,12 @@ PHP may not be my preferred language, but it has a rich legacy. Considering the 
  2. w3s tutorials 
  3. online practice
 
+WHERE TO BEGIN? 
+1. Open the project Tab
+2. Visit the todos
+3. IF you are done with the [day-task] drag and drop your todo to the next collumn DONE so that the admin knows you are going well.
+4. Follow the instructions... 
+
  File structure : 
  <br>
  ```
