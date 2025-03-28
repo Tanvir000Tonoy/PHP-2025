@@ -3,7 +3,7 @@ PHP-T & R
 </h1>
 
 ```
-tanvir & riyadh
+tanvir || riyadh || Shimul || Duy Dan
 ```
 
 ![Riyad](./php.webp)
